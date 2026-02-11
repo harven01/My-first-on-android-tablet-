@@ -1,0 +1,8 @@
+def main():
+    print("my name is harsh")
+    print("im trying something new just want to learn ai ml")
+
+main()
+time = "7:00 AM"
+print(time +" here ")
+
